@@ -1,7 +1,7 @@
-Youtube-parser-php
+Youtube-url-parser-php
 ==================
 
-Youtube php parser.
+Youtube url parser php.
 
 ```php
 
